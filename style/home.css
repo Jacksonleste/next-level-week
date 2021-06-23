@@ -51,6 +51,10 @@ input, button, .button{
     margin-bottom: 1.8rem;
 }
 
+button#entry{
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.527);
+}
+
 .separator{
     display: flex;
     align-items: center;

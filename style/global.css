@@ -62,6 +62,10 @@ input, button, .button{
     height: 4.8rem;
 }
 
+input{
+    outline: none;
+}
+
 button, .button{
     font-family: 'Poppins';
     font-weight: 500;
