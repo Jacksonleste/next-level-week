@@ -1,0 +1,27 @@
+{
+  "name": "RocketQ",
+  "version": "1.0.0",
+  "description": "* O projeto consiste em um site onde pode-se criar um questionário ou ultilizar um código para entrar em questionários de outras pessoas para responder.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon ." 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jacksonleste/next-level-week.git"
+  },
+  "keywords": [],
+  "author": "Jackson Leste",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jacksonleste/next-level-week/issues"
+  },
+  "homepage": "https://github.com/Jacksonleste/next-level-week#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
